@@ -1,4 +1,4 @@
-## Java Goof
+## Java Goof +1
 
 This is a collection of Java demo apps that are vulnerable in different ways.
 
